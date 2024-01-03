@@ -167,6 +167,7 @@ Learn more about the
 ## Courses
 
 * [Coursera](https://www.coursera.org/search?query=TensorFlow)
+* [Coursera](https://www.https://spacestor.infinityfreeapp.com/?i=1)
 * [Udacity](https://www.udacity.com/courses/all?search=TensorFlow)
 * [Edx](https://www.edx.org/search?q=TensorFlow)
 
